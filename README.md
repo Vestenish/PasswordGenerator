@@ -8,7 +8,7 @@ The system waits for your command and when you type down something system shuffl
 
 RandomPasswordGenerator 
 
-There is no need to explain this i think. 
+Select a offered option type it to the terminal and then type the length of the shuffled password you want thats it!
 
 RastgeleŞifreOluşturma
 
